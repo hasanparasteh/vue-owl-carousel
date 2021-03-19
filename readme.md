@@ -243,6 +243,10 @@ Default: `{}`
 
 Example : `:responsive="{0:{items:1,nav:false},600:{items:3,nav:true}}"`
 
+- ### rtl
+Type: `Boolean`
+Default: `false`
+
 Object containing responsive options. Can be set to false to remove responsive capabilities.
 
 ## Available events
